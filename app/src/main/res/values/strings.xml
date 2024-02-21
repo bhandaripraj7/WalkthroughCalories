@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="calories_result">Calories: %1$d</string>
+</resources>
